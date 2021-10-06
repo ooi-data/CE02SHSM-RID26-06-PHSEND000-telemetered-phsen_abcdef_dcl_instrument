@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-RID26-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument
 data_stream: CE02SHSM-RID26-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument
-end_date: '2021-09-29T15:30:21.000Z'
-last_updated: '2021-09-30T06:30:39.273242'
+end_date: '2021-10-05T19:30:23.000Z'
+last_updated: '2021-10-06T02:54:28.193687Z'
 start_date: '2015-04-02T21:30:53.000Z'
-status: success
+status: pending
