@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE02SHSM-RID26-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument
-last_request: '2021-12-21T22:39:54.708244Z'
+last_request: '2022-01-01T01:02:22.007891Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSM-RID26-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument/main/history/response.json
-status: success
+status: pending
